@@ -7,11 +7,11 @@
     <div class="mx-auto max-w-7xl">
       <header>
         <p class="text-xs font-semibold tracking-[0.3em] text-blue-500 uppercase">Project #4</p>
-        <h1 class="mt-2 text-4xl font-black text-white sm:text-5xl ">Anime Roulette Machine</h1>
-        <p>
+        <h1 class="mt-2 text-4xl font-black text-white sm:text-5xl">Anime Roulette Machine</h1>
+        <p class="mt-2 max-w-2xl text-sm text-slate-300 sm:text-base">
           Spin the reel, request a random anime from Jinkan with VueUse useFech, and learn how REST
           APIs signal rate limiting with HTTP 429
-        </p class="mt-2 max-w-2xl text-sm text-slate-300 sm:text-base">
+        </p>
       </header>
     </div>
   </main>
